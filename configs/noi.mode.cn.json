@@ -38,12 +38,18 @@
       "parent": "noi@ai",
       "text": "ChatGPT",
       "url": "https://chatgpt.com"
-    },
+    },    
     {
-      "id": "noi:claude",
+      "id": "noi:qwen",
       "parent": "noi@ai",
-      "text": "Claude",
-      "url": "https://claude.ai"
+      "text": "Qwen",
+      "url": "https://chat.qwen.ai"
+    },    
+    {
+      "id": "noi:copilot",
+      "parent": "noi@ai",
+      "text": "Copilot",
+      "url": "https://copilot.microsoft.com"
     },
     {
       "id": "noi:gemini",
@@ -52,28 +58,28 @@
       "url": "https://gemini.google.com"
     },
     {
-      "id": "noi:qwen",
-      "parent": "noi@ai",
-      "text": "Qwen",
-      "url": "https://chat.qwen.ai"
-    },
-    {
       "id": "noi:grok",
       "parent": "noi@ai",
       "text": "Grok",
       "url": "https://grok.com"
     },
     {
-      "id": "noi:copilot",
-      "parent": "noi@ai",
-      "text": "Copilot",
-      "url": "https://copilot.microsoft.com"
-    },
-    {
       "id": "noi:midjourney",
       "parent": "noi@ai",
       "text": "Midjourney",
       "url": "https://www.midjourney.com"
+    },    
+    {
+      "id": "noi:chatglm",
+      "parent": "noi@aiCN",
+      "text": "智谱清言",
+      "url": "https://chatglm.cn"
+    },
+    {
+      "id": "noi:wenxiaobai",
+      "parent": "noi@aiCN",
+      "text": "问小白",
+      "url": "https://www.wenxiaobai.com/"
     },
     {
       "id": "noi:yuanbao",
@@ -81,12 +87,7 @@
       "text": "腾讯元宝",
       "url": "https://yuanbao.tencent.com/chat"
     },
-    {
-      "id": "noi:chatglm",
-      "parent": "noi@aiCN",
-      "text": "智谱清言",
-      "url": "https://chatglm.cn"
-    },
+
     {
       "id": "noi:tongyiqianwen",
       "parent": "noi@aiCN",
@@ -110,12 +111,6 @@
       "parent": "noi@aiCN",
       "text": "秘塔",
       "url": "https://metaso.cn"
-    },
-    {
-      "id": "noi:wenxiaobai",
-      "parent": "noi@aiCN",
-      "text": "问小白",
-      "url": "https://www.wenxiaobai.com/"
     },
     {
       "id": "noi:github",
