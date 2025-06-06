@@ -183,6 +183,12 @@
       "parent": "noi@gold",
       "text": "上海黄金交易所",
       "url": "https://quote.cngold.org/gjs/jjs_hj9999.html"
+    },
+    {
+      "id": "noi:zerotier",
+      "parent": "noi@gold",
+      "text": "zerotier",
+      "url": "https://my.zerotier.com/network"
     }
   ]
 }
