@@ -34,6 +34,12 @@
       "text": "Video"
     },
     {
+      "id": "noi@gold",
+      "parent": 0,
+      "dir": true,
+      "text": "Gold"
+    },
+    {
       "id": "noi:chatgpt",
       "parent": "noi@ai",
       "text": "ChatGPT",
@@ -159,6 +165,24 @@
       "parent": "noi@video",
       "text": "哔哩哔哩",
       "url": "https://www.bilibili.com"
+    },
+    {
+      "id": "noi:lodongold",
+      "parent": "noi@gold",
+      "text": "伦敦现货金价",
+      "url": "https://www.wzg.com/gold/"
+    },
+    {
+      "id": "noi:boshigold",
+      "parent": "noi@gold",
+      "text": "博时ETF",
+      "url": "https://fund.eastmoney.com/002611.html"
+    },
+    {
+      "id": "noi:shanghaigold",
+      "parent": "noi@gold",
+      "text": "上海黄金交易所",
+      "url": "https://quote.cngold.org/gjs/jjs_hj9999.html"
     }
   ]
 }
