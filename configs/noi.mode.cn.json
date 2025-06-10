@@ -189,6 +189,24 @@
       "parent": "noi@gold",
       "text": "zerotier",
       "url": "https://my.zerotier.com/network"
+    },
+    {
+      "id": "noi:youdao",
+      "parent": "noi@gold",
+      "text": "有道",
+      "url": "https://dict.youdao.com/"
+    },
+    {
+      "id": "noi:googlet",
+      "parent": "noi@gold",
+      "text": "谷歌翻译",
+      "url": "https://translate.google.com/"
+    },
+    {
+      "id": "noi:scholar",
+      "parent": "noi@gold",
+      "text": "谷歌学术",
+      "url": "https://scholar.google.com/"
     }
   ]
 }
